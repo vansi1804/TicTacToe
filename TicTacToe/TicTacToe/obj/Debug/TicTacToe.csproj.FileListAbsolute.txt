@@ -1,0 +1,10 @@
+C:\Users\FPTSHOP\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\FPTSHOP\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.frmPlay.resources
+C:\Users\FPTSHOP\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\FPTSHOP\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\FPTSHOP\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\FPTSHOP\Downloads\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\FPTSHOP\Downloads\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\FPTSHOP\Downloads\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\FPTSHOP\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\FPTSHOP\Downloads\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb

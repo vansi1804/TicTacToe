@@ -1,0 +1,10 @@
+C:\Users\FPTSHOP\Downloads\TicTacToe-Minimax\TicTacToe_Minimax\bin\Debug\TicTacToe_Minimax.exe.config
+C:\Users\FPTSHOP\Downloads\TicTacToe-Minimax\TicTacToe_Minimax\bin\Debug\TicTacToe_Minimax.exe
+C:\Users\FPTSHOP\Downloads\TicTacToe-Minimax\TicTacToe_Minimax\bin\Debug\TicTacToe_Minimax.pdb
+C:\Users\FPTSHOP\Downloads\TicTacToe-Minimax\TicTacToe_Minimax\obj\Debug\TicTacToe_Minimax.csproj.AssemblyReference.cache
+C:\Users\FPTSHOP\Downloads\TicTacToe-Minimax\TicTacToe_Minimax\obj\Debug\TicTacToe_Minimax.Properties.Resources.resources
+C:\Users\FPTSHOP\Downloads\TicTacToe-Minimax\TicTacToe_Minimax\obj\Debug\TicTacToe_Minimax.csproj.GenerateResource.cache
+C:\Users\FPTSHOP\Downloads\TicTacToe-Minimax\TicTacToe_Minimax\obj\Debug\TicTacToe_Minimax.csproj.CoreCompileInputs.cache
+C:\Users\FPTSHOP\Downloads\TicTacToe-Minimax\TicTacToe_Minimax\obj\Debug\TicTacToe_Minimax.exe
+C:\Users\FPTSHOP\Downloads\TicTacToe-Minimax\TicTacToe_Minimax\obj\Debug\TicTacToe_Minimax.pdb
+C:\Users\FPTSHOP\Downloads\TicTacToe-Minimax\TicTacToe_Minimax\obj\Debug\TicTacToe_Minimax.frmPlay.resources
