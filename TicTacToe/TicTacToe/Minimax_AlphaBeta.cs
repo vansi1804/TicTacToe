@@ -31,7 +31,7 @@ namespace TicTacToe
                 for (int i = 0; i< moves.Count; i++)
                 {
                     int theMove = moves[i];
-                    Board modifiedBoard = board.getDeepCopy();
+                    Board modifiedBoard = board.getCopyDeep();
                     modifiedBoard.move(theMove);
                     int score = alphaBetaPruning(modifiedBoard, player,depth, alpha, beta);
 
@@ -59,7 +59,7 @@ namespace TicTacToe
                 for (int i = 0; i < moves.Count; i++)
                 {
                     int theMove = moves[i];
-                    Board modifiedBoard = board.getDeepCopy();
+                    Board modifiedBoard = board.getCopyDeep();
                     modifiedBoard.move(theMove);
 
                     int score = alphaBetaPruning(modifiedBoard, player, depth, alpha, beta);

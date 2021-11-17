@@ -246,7 +246,7 @@ namespace TicTacToe
 
 
 
-        public Board getDeepCopy()
+        public Board getCopyDeep()
         {
             Board board = new Board();
 
